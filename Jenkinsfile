@@ -1,4 +1,4 @@
-pipeline {
+ppipeline {
     agent any
     environment {
         //be sure to replace "willbla" with your own Docker Hub username
